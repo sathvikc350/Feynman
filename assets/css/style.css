@@ -10,12 +10,12 @@ body {
 
 
 a {
-  color: #f82249;
+  color: #65dff7;
   transition: 0.5s;
 }
 
 a:hover, a:active, a:focus {
-  color: #f8234a;
+  color: #65dff7;
   outline: none;
   text-decoration: none;
 }
