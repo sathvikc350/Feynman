@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #f82249;
+  background: #09bbde;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249;
+  background: #09bbde;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -911,7 +911,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #09bbde;
 }
 
 #speakers .speaker:hover .details {
@@ -1764,7 +1764,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f82249;
+  border-bottom: 2px solid #09bbde;
 }
 
 #footer .footer-top .footer-links {
